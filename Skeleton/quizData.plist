@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Frogs Quiz</string>
+		<key>tag</key>
+		<string>This is a quiz about frogs</string>
+		<key>summary</key>
+		<string>This is a summary of the quiz about frogs.</string>
+		<key>theme_id</key>
+		<string>2</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>question</key>
+				<string>This is question 1 in the first quiz</string>
+				<key>quiz_id</key>
+				<string>106</string>
+				<key>answers</key>
+				<array>
+					<dict>
+						<key>answer</key>
+						<string>Answer 1</string>
+						<key>explanation</key>
+						<string>This is the explanation of answer 1</string>
+						<key>correct</key>
+						<string>YES</string>
+					</dict>
+					<dict>
+						<key>answer</key>
+						<string>Answer 2</string>
+						<key>explanation</key>
+						<string>This is the explanation of answer 3</string>
+						<key>correct</key>
+						<string>NO</string>
+					</dict>
+					<dict>
+						<key>answer</key>
+						<string>Answer 3</string>
+						<key>explanation</key>
+						<string>This is the explanation of answer 3</string>
+						<key>correct</key>
+						<string>NO</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
